@@ -13,9 +13,8 @@ class Translation {
 	 */
 	isChinese(char) {
 		let code = char.charCodeAt();
-		return (
-			(code > 0x3400 && code < 0x9fc3) || (code > 0xf900 && code < 0xfa6a)
-		);
+		return code >= 0x4E00 && code <= 0x9FA5;
+		// return (code > 0x3400 && code < 0x9fc3) || (code > 0xf900 && code < 0xfa6a);
 	}
 
 	/**
