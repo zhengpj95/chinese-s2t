@@ -1,0 +1,13 @@
+{
+	"name": "chinese-s2t",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"type": "module",
+	"scripts": {
+		"test": "node --experimental-modules test.mjs"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}
