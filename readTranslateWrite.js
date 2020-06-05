@@ -14,13 +14,19 @@ const readChinese = function (url) {
 
 const translateFile = function (data) {
 	console.log(`开始翻译`);
+	// 简体转繁体
 	let result = translation.s2t(data);
 	if (!result) {
 		console.log(`翻译文件失败`);
 		return;
 	}
 	console.log(`翻译成功`);
-	fs.writeFile('./test2.txt', result, (err, data) => {
+	writeChinese(result);
+}
+
+const writeChinese = function (data) {
+	console.log(`开始写入文件`);
+	fs.writeFile('./test2.txt', data, (err) => {
 		if (err) {
 			console.log(`写入文件失败`);
 			return;
