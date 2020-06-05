@@ -1,0 +1,24 @@
+翻译语言，敲代码，中国音乐，拼英双拼。
+Convert text to different languages on Node.js and the browser.
+The first parameter is the string that you want to translate. Right now only a single string of text is accepted.
+你好吗，香港台湾澳门，世界和平与爱培养培育
+写一个可以调用各个翻译API接口的android应用
+负责公司H5游戏的开发工作；配合后端及策划实现产品功能；把握前端页面性能和提升用户交互体验；
+熟练掌握js，能独立完成功能模块的编写
+精通js等前端开发技术、熟悉H5游戏开发框架，能独立开发、熟悉Flex、Laya Air、egret三者中的任意一个；
+较好的基础和学习能力；
+有过成功H5游戏项目经验、做过layabox项目的优先。
+"label":"请输入内容";"group":"groupEff";"name":"namename"
+======------`````2234234234121231289798798
+.0.2*/-+!@~^%$%#^(*&*^&^&%)(*)(_)(_()()()【】【】{}
+翻译语言，敲代码，中国音乐，拼英双拼。
+Convert text to different languages on Node.js and the browser.
+The first parameter is the string that you want to translate. Right now only a single string of text is accepted.
+你好吗，香港台湾澳门，世界和平与爱培养培育
+写一个可以调用各个翻译API接口的android应用
+负责公司H5游戏的开发工作；配合后端及策划实现产品功能；把握前端页面性能和提升用户交互体验；
+熟练掌握js，能独立完成功能模块的编写
+精通js等前端开发技术、熟悉H5游戏开发框架，能独立开发、熟悉Flex、Laya Air、egret三者中的任意一个；
+较好的基础和学习能力；
+有过成功H5游戏项目经验、做过layabox项目的优先。
+"label":"请输入内容";"group":"groupEff";"name":"namename"
