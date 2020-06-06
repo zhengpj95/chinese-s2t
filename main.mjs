@@ -7,18 +7,16 @@ const traditional = Chinese.T;
 
 class Translation {
 	/**
-	 *
 	 * @param {string} char
 	 * @returns {boolean}
 	 */
 	isChinese(char) {
 		let code = char.charCodeAt();
-		return code >= 0x4E00 && code <= 0x9FA5;
+		return code >= 0x4e00 && code <= 0x9fa5;
 		// return (code > 0x3400 && code < 0x9fc3) || (code > 0xf900 && code < 0xfa6a);
 	}
 
 	/**
-	 *
 	 * @param {string} str
 	 * @param {boolean} type true: 简体转繁体
 	 */
