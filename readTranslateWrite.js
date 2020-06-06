@@ -10,7 +10,7 @@ const readChinese = function (url) {
 		console.log(`读取文件${url}成功`);
 		translateFile(data);
 	});
-}
+};
 
 const translateFile = function (data) {
 	console.log(`开始翻译`);
@@ -22,7 +22,7 @@ const translateFile = function (data) {
 	}
 	console.log(`翻译成功`);
 	writeChinese(result);
-}
+};
 
 const writeChinese = function (data) {
 	console.log(`开始写入文件`);
@@ -33,6 +33,6 @@ const writeChinese = function (data) {
 		}
 		console.log(`写入文件成功`);
 	});
-}
+};
 
-readChinese('./test.txt')
+readChinese('./test.txt');
