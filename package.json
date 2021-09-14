@@ -5,7 +5,7 @@
 	"main": "main.js",
 	"type": "module",
 	"scripts": {
-		"test": "node --experimental-modules test.mjs"
+		"test": "node --experimental-modules ./mjs_pro/test.mjs"
 	},
 	"keywords": [],
 	"author": "",
